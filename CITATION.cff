@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the DOI below."
+type: dataset
+title: "How to cancel a dating subscription in Switzerland: 18 platforms compared (2026)"
+version: "1.0"
+date-released: 2026-09-29
+doi: 10.5281/zenodo.23036874
+license: CC-BY-4.0
+url: "https://www.webandreview.com/dating/cancellation-study-2026/"
+repository: "https://doi.org/10.5281/zenodo.23036874"
+keywords:
+  - online dating
+  - Switzerland
+  - consumer protection
+  - subscription
+  - cancellation
+  - notice period
+  - terms of service
+authors:
+  - family-names: Bernard
+    given-names: Sacha
+    affiliation: Webandreview
+    orcid: "https://orcid.org/0009-0008-1350-0334"
